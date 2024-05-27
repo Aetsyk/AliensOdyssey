@@ -1,0 +1,4 @@
+<TextureAtlas imagePath="tilemap-characters_packed.png">
+    <SubTexture name="char1.png" x="96" y="0" width="24" height="24"/>
+    <SubTexture name="char2.png" x="120" y="0" width="24" height="24"/>
+</TextureAtlas>
